@@ -23,3 +23,6 @@ my Barnes-Hut implementation. That is why performance differences between Barnes
 by disabling CCD and letting particles fly around with no contact.
 
 If you want to implement a Robust and better CCD, feel free to do so as that was my next step in this project.
+
+I also was experimenting with using the mouse to generate gravity fields around wherever a user is clicking. This feature 
+isn't finished yet, but you can try experimenting with it.
