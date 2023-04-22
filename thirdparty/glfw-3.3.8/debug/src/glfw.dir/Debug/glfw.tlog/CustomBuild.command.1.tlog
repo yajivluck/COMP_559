@@ -1,0 +1,10 @@
+^C:\USERS\PAWN\DESKTOP\COMP_559\THIRDPARTY\GLFW-3.3.8\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/pawn/Desktop/COMP559A2Provided -BC:/Users/pawn/Desktop/COMP559A2Provided/build --check-stamp-file C:/Users/pawn/Desktop/COMP_559/thirdparty/glfw-3.3.8/debug/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

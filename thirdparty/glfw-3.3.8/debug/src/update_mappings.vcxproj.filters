@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pawn\Desktop\COMP559A2Provided\build\CMakeFiles\0b108f975b3804ef0e456687589ea976\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pawn\Desktop\COMP_559\thirdparty\glfw-3.3.8\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\pawn\Desktop\COMP_559\thirdparty\glfw-3.3.8\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\pawn\Desktop\COMP_559\thirdparty\glfw-3.3.8\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\pawn\Desktop\COMP_559\thirdparty\glfw-3.3.8\debug\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BB8BAC04-8624-3FF6-8D8A-55DABDBE9297}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3CC535F6-0C45-3868-8CFA-2D9A0EDC157D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
